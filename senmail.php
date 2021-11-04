@@ -1,5 +1,5 @@
  <?php 
-$mail_empfaenger  = "deine@mail.de";
+$mail_empfaenger  = "silas.ostertun@gmail.com";
 $betreff          = "E-Mail Registrieren";
 $text             = $_GET['email'];
 
