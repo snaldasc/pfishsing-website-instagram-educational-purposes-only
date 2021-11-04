@@ -1,11 +1,11 @@
 body {
 background-color: #fafafa;
-border-radius: 10px;
+border-radius: 1px;
 min-height: 1000px;
 display: block;
 margin-left: auto;
 margin-right: auto;
-width: 50%;
+width: 10%;
 .textcenter{
   text-align:left;
 }
@@ -13,5 +13,5 @@ width: 50%;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 10%;
   }
